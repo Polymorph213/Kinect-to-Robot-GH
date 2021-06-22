@@ -1,4 +1,5 @@
 # Kinect-to-Robot-GH
+This Grasshopper script takes an input from a Microsoft kinect Sensor, and alows you to move a simulated Robotic Arm via your hand.
 
 This Grasshopper script requires the following dependancies in order to function correctly:
 
